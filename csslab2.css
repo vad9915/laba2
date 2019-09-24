@@ -1,0 +1,178 @@
+
+
+.block{
+  width: 150px;
+  height: 150px;
+  background: green;
+  position: absolute;
+  bottom: 0;
+  left: 120px;
+
+
+}
+
+.window{
+	height: 50px;
+	width: 50px;
+	background: white;
+	position: absolute;
+	bottom: 50px;
+	left: 200px;
+
+}
+
+.door{
+	height: 100px;
+	width: 40px;
+	background: brown;
+	position: absolute;
+	bottom: 0px;
+	left: 130px;
+
+}
+
+.roof{
+  left: 95px;
+  width: 1px;
+  height: 1px;
+  top: 460px;
+  border-top: 60px solid white;
+  border-right: 100px solid white;
+  border-left: 100px solid white;
+  border-bottom: 50px solid #ACACC4;
+  background: white;
+  position: absolute;
+}
+
+
+.block1{
+  width: 150px;
+  height: 150px;
+  background: orange;
+  position: relative;
+  bottom: 0;
+  left: 120px;
+
+
+}
+
+.window1{
+	height: 50px;
+	width: 50px;
+	background: white;
+	position: relative;
+	bottom: 200px;
+	left: 200px;
+
+}
+
+.door1{
+	height: 100px;
+	width: 40px;
+	background: brown;
+	position: relative;
+	bottom: 100px;
+	left: 130px;
+
+}
+
+.roof1{
+  left: 95px;
+  width: 1px;
+  height: 1px;
+  top: 0px;
+  border-top: 60px solid white;
+  border-right: 100px solid white;
+  border-left: 100px solid white;
+  border-bottom: 50px solid #ACACC4;
+  background: white;
+  position: relative;
+}
+
+.block2{
+  width: 150px;
+  height: 150px;
+  background: orange;
+  position: fixed;
+  bottom: 0;
+  left: 400px;
+
+
+}
+
+.window2{
+	height: 50px;
+	width: 50px;
+	background: white;
+	position: fixed;
+	bottom: 50px;
+	left: 490px;
+
+}
+
+.door2{
+	height: 100px;
+	width: 40px;
+	background: brown;
+	position: fixed;
+	bottom: 0px;
+	left: 430px;
+
+}
+
+.roof2{
+  left: 375px;
+  width: 1px;
+  height: 1px;
+  top: 460px;
+  border-top: 60px solid white;
+  border-right: 100px solid white;
+  border-left: 100px solid white;
+  border-bottom: 50px solid #ACACC4;
+  background: white;
+  position: fixed;
+}
+
+.block3{
+  width: 150px;
+  height: 150px;
+  background: orange;
+  position: static;
+  margin-top: 000px;
+  margin-left: 110px;
+
+
+}
+
+.window3{
+	height: 50px;
+	width: 50px;
+	background: green;
+	position: static;
+	margin-top: -100px;
+	margin-left: 190px;
+
+}
+
+.door3{
+	height: 100px;
+	width: 40px;
+	background: brown;
+	position: static;
+  margin-top: -100px;
+	margin-left: 120px;
+
+}
+
+.roof3{
+  width: 1px;
+  height: 1px;
+  border-top: 60px solid white;
+  border-right: 100px solid white;
+  border-left: 100px solid white;
+  border-bottom: 50px solid #ACACC4;
+  background: white;
+  margin-top: 350px;
+  margin-left: 83px;
+  position: static;
+}
